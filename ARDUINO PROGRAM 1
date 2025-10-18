@@ -1,5 +1,5 @@
 // The goal of this goal is to get the LEDs to turn off and off in a sequence which resembles the light chase one after the other. 
-
+// This is a digital output program
  
 
 int timeDelay = 200; 
